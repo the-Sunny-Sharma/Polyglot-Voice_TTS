@@ -1,0 +1,37 @@
+body {
+  background-color: #222;
+  color: #fff;
+  font-family: Verdana, sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  align-items: center;
+  height: 150px;
+}
+
+.my-custom-container {
+  width: 250px;
+  height: 100px;
+  margin: auto;
+}
+
+.btn-start {
+  background-color: #ff4533;
+  width: 100%;
+  padding: 20px 30px 20px 30px;
+  font-size: 1.8em;
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+  margin: auto;
+  margin-top: 50px;
+  cursor: pointer;
+  transition: box-shadow 0.3s ease;
+}
+
+.btn-start:hover {
+  box-shadow: 2px 2px 5px #7e7e7e, -2px -2px 5px #686868;
+}
