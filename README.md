@@ -63,6 +63,9 @@ The React development server will start running at http://localhost:3000.
 
 Open your web browser and visit http://localhost:3000 to access the application.
 
+Live DEMO(Firebase): https://polyglot-voice.web.app/
+Backend Deployed on Render : https://render.com/
+
 ## License
 
 This project is licensed under the MIT License [LICENSE].
